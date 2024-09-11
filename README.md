@@ -15,6 +15,7 @@ This repo is to collect all the project from data science bootcamp by datarockie
 ## Contact Me
 reach out to me at
 LinkedIN: https://www.linkedin.com/in/paramita-parinyanupap-40475b147/
+
 email: paramita.parinyanupap@gmail.com
 
 
