@@ -1,0 +1,73 @@
+<cafe>
+    <drink>
+        <name>Black</name>
+        <description>Just coffee</description>
+        <price>$4</price>
+        <ingredient>coffee</ingredient>
+        <calorie>2</calorie>
+    </drink>
+    <drink>
+        <name>Latte</name>
+        <description>Espresso and Steamed Milk</description>
+        <price>$6</price>
+        <ingredient>coffee</ingredient>
+        <ingredient>milk</ingredient>
+        <calorie>104</calorie>
+    </drink>
+    <drink>
+        <name>Cappuccino</name>
+        <description>Espresso, Steamed Milk, and Foam</description>
+        <price>$6.5</price>
+        <ingredient>coffee</ingredient>
+        <ingredient>milk</ingredient>
+        <ingredient>foam</ingredient>
+        <calorie>57</calorie>
+    </drink>
+    <drink>
+        <name>Americano</name>
+        <description>Espresso and Hot water</description>
+        <price>$4.5</price>
+        <ingredient>coffee</ingredient>
+        <calorie>9</calorie>
+    </drink>
+    <drink>
+        <name>Espresso</name>
+        <description>1oz Espresso</description>
+        <price>$4</price>
+        <ingredient>coffee</ingredient>
+        <calorie>9</calorie>
+    </drink>
+    <drink>
+        <name>Mocha</name>
+        <description>Expresso, Chocolate, and Steamed Milk</description>
+        <price>$6</price>
+        <ingredient>coffee</ingredient>
+        <ingredient>chocolate</ingredient>
+        <ingredient>milk</ingredient>
+        <calorie>120</calorie>
+    </drink>
+
+    <dessert>
+        <name>Chocolate cake</name>
+        <description>Homemade chocolate cake</description>
+        <price>$9<price>
+        <ingredient>flour</ingredient>
+        <ingredient>sugar</ingredient>
+        <ingredient>egg</ingredient>
+        <ingredient>butter</ingredient>
+        <ingredient>oil</ingredient>
+        <ingredient>chocolate</ingredient>
+        <calorie>500</calorie>
+    </dessert>
+
+        <dessert>
+        <name>Chocolate cake</name>
+        <description>Homemade chocolate cake</description>
+        <price>$9<price>
+        <ingredient>chocolate</ingredient>
+        <ingredient>sugar</ingredient>
+        <ingredient>egg</ingredient>
+        <ingredient>milk</ingredient>
+        <calorie>500</calorie>
+    </dessert>
+</cafe>
