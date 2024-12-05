@@ -9,5 +9,6 @@ Currently there are two pages in the dashboard<br>
 
 
 Tableau Public Dashboard
-[Sales Dashboard](https://public.tableau.com/views/HelloWorldDashboard_17257784453410/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Sales Dashboard](https://public.tableau.com/views/HelloWorldDashboard_17257784453410/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)<br>
+One page in Tableau Dashboard<br>
 <img width="486" alt="image" src="https://github.com/user-attachments/assets/4de6a1a2-da25-4636-8ad4-85949e1ab473">
